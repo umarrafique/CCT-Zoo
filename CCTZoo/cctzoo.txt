@@ -1,0 +1,57 @@
+(AnimalType){"Mammal", "Reptile", "Avian", "Aquatic", "Insect"}
+(animalnames){"Tiger", "Cow", "Camel", "Deer", "Dall Sheep", "DROMEDARY", "GIRAFFE","ORYX", "PIG", "WARTHOG", "SHEEP", "YAK", "WILDEBEEST", "REINDEER", "PRONGHORN", "OKAPI", "MUSK OX", "MOOSE", "LLAMA","KARAKUL", "JAVELINA", "IMPALA", "HIPPOPOTAMUS", "GOAT", "GNU", "GAZELLE", "ALPACA", "ANTELOPE", "BONGO", "ARCTIC FOX","BEAR", "Cats", "Dogs", "FERRET", "GRIZZLY BEAR", "JAGUAR", "LION", "LEOPARD", "RED PANDA", "WOLVERINE", "WOLF"}
+(Aquaticnames){"Barnacle", "Blue Whale", "Barracuda", "Blue Crab", "Bull Shark", "Clownfish", "Cuttlefish",
+        "Dolphin", "Eel", "Fan Worm", "Giant Squid", "Great White Shark", "Haddock", "Jellyfish", "Killer Whale",
+        "Lionfish", "Lobster", "Octopus", "Prawn", "Sea Lion", "Starfish", "Swordfish", "Tiger Shark"}
+(reptilenames){"American Alligator", "Dwarf Caiman", "Black Tree Monitor", "Green Iguana", "Leopard Gecko",
+        "Scheltopusik", "Western Chuckwalla", "Anatolian Viper", "Armenian Viper", "Ball Python", "Bolkar Viper", "Corn Snake", "King Cobra",
+        "Prairie Kingsnake", "Rosy Boa", "Box Turtle", "Leopard Tortoise", "Ornate Box Turtle", "Timber Rattlesnake", "Moorish Viper", "Malayan Gharial",
+        "Black Rat Snake", "Dumeril's Boa", "Grand Canyon Rattlesnake"}
+(Insectnames){"Ants", "Aphids", "Bees", "Bat bugs", "Beetles, picnic", "Chiggers", "Cockroaches", "Cat fleas",
+        "Cabbage aphids", "Cicada killers", "Cornfield ants", "Codling moths", "Centipedes", "Cankerworms", "Crickets", "Cutworms", "Crab lice", "Clothes moths",
+        "Dobsonflies", "Earwigs", "Earthworms", "Firebrats", "Flea beetles", "Grasshoppers", "Head lice", "Lace bugs", "Millipedes", "Mosquitoes",
+        "Nightcrawlers", "Psocids", "Roseslugs", "Sawflies", "Spiders", "Slugs", "Ticks", "Weevils", "Wasps", "Yellow ants"}
+(aviannames){"Baleric Shearwater", "Blackbird", "Barn Owl", "Barnacle Goose",
+        "Bewick's Swan", "Bar-tailed Godwit", "Black Brant", "Black Swan", "Brambling", "Bullfinch", "Blackcap", "Buzzard",
+        "Cuckoo", "Dunnock", "Fieldfare", "Firecrest", "Gadwall", "Goldfinch", "Magpie",
+        "Pochard", "Red Kite", "Rook", "Snow Goose", "Snowy Owl", "Teal"}
+(names){"Grady Millhouse", "Maida Miracle", "Stewart Melia",
+        "Francis Trippe", "Joni Mallet", "Wilber Martindale", "Isis Tien", "Mirna Zalenski",
+        "Rita Mckillop", "Maritza Stalzer", "Iesha Whittaker", "Daysi Marble", "Ken Miedema",
+        "Shenita Dalley", "Mickie Dulin", "Gayle Kurland", "Santo Real", "Darla Scroggins",
+        "Aide Lau", "Barrett Cazarez", "Georgeann Giffen", "Lucrecia Roussel", "Arleen Witzel",
+        "Meredith Bonacci", "Treasa Lymon", "Dyan Behar", "Heike Blackmer", "Mallie Greenwood",
+        "Lily Gregg", "Carlena Murguia", "Jenee Chae", "Dewitt Muma", "Joi Frink", "Erma Dennard",
+        "Vannessa Valderas", "Yetta Benefiel", "Jewell Rapier", "Jess Emling", "Dave Oberman",
+        "Luetta Millis", "Bok Circle", "Vicki Reaux", "Lane Morehouse", "Cecille Bixler",
+        "Bobby Izquierdo", "Dolores Mingez", "Agripina Haveman", "Cherryl Gale",
+        "Gilberte Gillum", "Tomoko Broadway", "BatMan"}
+(Vaccines){"No Vaccine","Adenovirus", "Anthrax", "Cholera", "DTaP", "Polio",
+        "Hepatitis A", "Hepatitis B", "Herpes Zoster (Shingles)", "Influenza", "Japanese encephalitis", "Meningococcal", "Pneumococcal", "Rabies",
+        "Rotavirus", "Tetanus", "Diphtheria", "Varicella", "Pertussis", "Diphtheria", "Rubella", "Papillomavirus"}
+(Medications){"No Medication","Acetaminophen", "Adderall", "Alprazolam",
+        "Amitriptyline", "Amoxicillin", "Amlodipine", "Ativan", "Atorvastatin", "Azithromycin",
+        "Ciprofloxacin", "Citalopram", "Clindamycin", "Clonazepam", "Codeine", "Cyclobenzaprine",
+        "Cymbalta", "Doxycycline", "Gabapentin", "Hydrochlorothiazide", "Ibuprofen", "Lexapro",
+        "Lisinopril", "Loratadine", "Lorazepam", "Losartan", "Lyrica", "Meloxicam",
+        "Metformin", "Metoprolol", "Naproxen", "Omeprazole", "Oxycodone", "Pantoprazole",
+        "Prednisone", "Tramadol", "Trazodone", "Viagra", "Wellbutrin", "Xanax",
+        "Zoloft"}
+(Dates){"19/06/2018", "24/07/2018", "19/04/2018",
+        "22/06/2018", "21/07/2018", "01/07/2018", "30/04/2018", "29/07/2018", "08/07/2018",
+        "12/07/2018", "24/04/2018", "25/04/2018", "27/05/2018", "29/05/2018", "22/06/2018",
+        "29/06/2018", "25/05/2018", "14/07/2018", "30/04/2018", "06/06/2018", "18/05/2018",
+        "13/04/2018", "02/08/2018", "08/05/2018", "02/08/2018", "03/04/2018", "26/04/2018",
+        "26/07/2018", "26/04/2018", "05/05/2018", "24/04/2018", "04/06/2018", "28/07/2018",
+        "27/04/2018", "09/05/2018", "21/07/2018", "17/05/2018", "12/04/2018", "02/07/2018",
+        "30/07/2018", "17/06/2018", "06/04/2018", "06/04/2018", "06/07/2018", "12/04/2018",
+        "13/05/2018", "02/04/2018", "03/07/2018", "27/06/2018", "25/06/2018", "12/07/2018",
+        "26/07/2018", "03/06/2018", "29/04/2018", "20/05/2018", "14/07/2018", "30/04/2018",
+        "26/07/2018", "04/07/2018", "04/06/2018", "14/06/2018", "02/04/2018", "04/04/2018",
+        "25/06/2018", "11/07/2018", "09/07/2018", "07/06/2018", "19/07/2018", "20/07/2018",
+        "11/07/2018", "19/04/2018", "12/05/2018", "11/07/2018", "18/04/2018", "25/07/2018",
+        "14/04/2018", "06/04/2018", "10/04/2018", "26/04/2018", "28/04/2018", "02/05/2018",
+        "25/05/2018", "21/06/2018", "26/07/2018", "09/07/2018", "23/05/2018", "04/05/2018",
+        "03/04/2018", "05/07/2018", "24/07/2018", "13/06/2018", "08/07/2018", "04/07/2018",
+        "10/07/2018", "12/07/2018", "02/04/2018", "28/06/2018", "15/05/2018", "29/04/2018",
+        "16/05/2018"}
